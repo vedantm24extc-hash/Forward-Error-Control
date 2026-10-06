@@ -27,6 +27,6 @@ The system's performance is evaluated through two distinct testing methodologies
 4. **To view statistical performance:** Run the BER curve script. The program will execute the 10,000-trial loop and generate the logarithmic performance graph.
 
 ## Authors
-* **Vedant Mishra**[cite: 533]
-* **Anuj Meher**[cite: 531]
-* Department of Electronics and Telecommunication Engineering, Pillai College of Engineering[cite: 53]
+* **Vedant Mishra**[Roll No: 533]
+* **Anuj Meher**[Roll No: 531]
+* Department of Electronics and Telecommunication Engineering, Pillai College of Engineering
